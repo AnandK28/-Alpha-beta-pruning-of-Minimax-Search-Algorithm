@@ -1,4 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h3>Name:  Raha Priya Dharshini M     </h3>
+<h3>Register Number: 212224240124           </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -172,9 +174,9 @@ if __name__ == "__main__":
 
 <h2>Output</h2>
 
-![alt text](FOAI-7-a.png)
+<img width="400" height="467" alt="FOAI-7-b" src="https://github.com/user-attachments/assets/e84caad6-2bb0-4849-9f1e-0627fc88d9b6" />
+<img width="532" height="881" alt="FOAI-7-a" src="https://github.com/user-attachments/assets/90643d6c-62bc-4017-a528-b5ba20d28f97" />
 
-![alt text](FOAI-7-b.png)
 
 <h2>Result</h2>
 The program runs a Tic-Tac-Toe game where the player enters board coordinates and the AI uses Alpha-Beta pruning to choose optimal moves. The game continues until a player wins or the match ends in a tie.
